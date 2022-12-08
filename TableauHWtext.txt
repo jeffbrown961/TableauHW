@@ -1,0 +1,7 @@
+Dashboard 1) I had thought that this was data specifically about NYC bikes. Turns out a majority of bike use is actually in Jersey city (at least the end destinations per ride). Hoboken Terminal and Grove St PATH being the two most common end AND start points. In fact, routes between the two are also the most popular of all routes. It's interesting how specific it gets. I wonder what is there that is clearly so attractive to people? Work or fun?
+
+Dashboard 2) This one is about membership counts. Much more people who ride the bikes are actually members. This is surprising to me. Clearly there are benefits to it that the data doesn't show and/or signing up is an easy process. As for bike types, the classic bike is the most ridden, followed by an electric bike, and finally (and only among casual users) whatever the heck a docked bike is. 
+
+Dashboard 3) The timing of rides has very clear patterns. On weekdays the rides tended to END at roughly 7am or 8 am for the morning and 6pm for the evening. This clearly follows work hours. Weekends however it was slightly more diffuse with it being between 1pm and 6pm. Overall, the most popular times to use the bikes (whether starting or ending) were 8am and the 5-6pm with a sharp decline after. 
+
+Dashboard 4) This is just the map of end station usage. Size and color are the details here; red being less usage and green being more. 
